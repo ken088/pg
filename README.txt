@@ -1,3 +1,5 @@
+所有文件资源来自网络，如有侵权请联系本人删除，谢谢
+
 把zip文件解壓縮到安卓設備的/sdcard/tvbox/JS/目錄
 複製lib/tokentemplate.json成爲lib/tokenm.json，并填寫必要的内容
 
