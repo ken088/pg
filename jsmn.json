@@ -58,9 +58,7 @@
 			"searchable": 1,
 			"changeable": 1
 		},
-		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1},
-		{
-			"key":"bili",
+		{       "key":"bili",
 			"name":"B站 | Bili[jar]",
 			"type":3,
 			"api": "csp_Bili",
@@ -71,15 +69,6 @@
 				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
 				"cookie":""
 			}
-		},
-		{
-			"key": "NanGua",
-			"name": "南瓜|弹幕",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1"
 		},
 
 		{
@@ -165,51 +154,6 @@
 			"ext": "https://www.bdys03.com/$$$null$$$1"
 		},
 		{ "key": "YQKan", "name": "一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
-		{
-			"key": "索尼资源",
-			"name": "索尼┃资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"国产剧",
-				"欧美剧",
-				"韩剧",
-				"日剧",
-				"港剧",
-				"台剧",
-				"泰剧",
-				"海外剧",
-				"纪录片",
-				"大陆综艺",
-				"日韩综艺",
-				"港台综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"动画片",
-				"港台动漫",
-				"海外动漫",
-				"演唱会",
-				"体育赛事",
-				"篮球",
-				"足球",
-				"预告片",
-				"斯诺克",
-				"影视解说"
-			],
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{"key":"drpy_js_美剧迷","name":"美剧迷[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"drpy_js_愛盤搜","name":"爱盘搜[js]|夸","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
 		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yyets.js", "quickSearch":1, "changeable":1, "timeout":30},
 		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1"},
@@ -225,130 +169,6 @@
 		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-		{
-			"key": "快看",
-			"name": "快看",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},
-		{
-			"key": "暴風",
-			"name": "暴風",
-			"type": 1,
-			"api": "https://bfzyapi.com/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "索尼",
-			"name": "索尼 ",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "快帆",
-			"name": "快帆",
-			"type": 1,
-			"api": "https://api.kuaifan.tv/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "量子",
-			"name": "量子",
-			"type": 1,
-			"api": "https://cj.lziapi.com/api.php/provide/vod/",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "非凡",
-			"name": "非凡",
-			"type": 1,
-			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"国产动漫",
-				"日韩动漫",
-				"国产剧",
-				"韩国剧",
-				"日本剧",
-				"电影片",
-				"连续剧",
-				"综艺片",
-				"动漫片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"香港剧",
-				"欧美剧",
-				"记录片",
-				"台湾剧",
-				"海外剧",
-				"泰国剧",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫"
-			]
-		},
-		{
-			"key": "櫻花",
-			"name": "櫻花",
-			"type": 3,
-			"api": "csp_Ying",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "巴士",
-			"name": "巴士",
-			"type": 3,
-			"api": "csp_Dm84",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "異界",
-			"name": "異界",
-			"type": 3,
-			"api": "csp_Ysj",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "愛看",
-			"name": "愛看",
-			"type": 3,
-			"api": "./js/ikanbot_open.js",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key":"MV_vod",
-			"name":"电视┃MTV",
-			"type":1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0
-		},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",
