@@ -27,16 +27,6 @@
 			"changeable": 1,
 			"ext": "./lib/douban.json"
 		},
-{
-      "key": "安博",
-      "name": "👑安博",
-      "type": 4,
-      "api": "https://ali.xn--sxr.hz.cz/site/ub1818",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
     	{
 			"key": "FirstAid",
 			"name": "🚑 急救知识 ",
