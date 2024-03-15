@@ -40,15 +40,7 @@
 				"ratio": 3.8
 			}
 		},
-		{
-			"key": "短剧",
-			"name": "短剧",
-			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
+		{		{
 			"key": "新6V",
 			"name": "新6V|网盘",
 			"type": 3,
