@@ -10,15 +10,8 @@
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
 		},
-		{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"ext": "./lib/douban.json"
-		},
+		{"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"api":"./lib/apiv57uukw.js"},
+		{"key":"lf_js_p2p","name":"路飞_p2p磁力搜索","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"recordable":0,"timeout":60,"api":"./lib/apiv591cLnn.js","ext":"18+"},
     	        {
 			"key": "FirstAid",
 			"name": "🚑 急救知识 ",
@@ -43,6 +36,46 @@
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
+			"key": "索尼资源",
+			"name": "索尼┃资源",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"国产剧",
+				"欧美剧",
+				"韩剧",
+				"日剧",
+				"港剧",
+				"台剧",
+				"泰剧",
+				"海外剧",
+				"纪录片",
+				"大陆综艺",
+				"日韩综艺",
+				"港台综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"动画片",
+				"港台动漫",
+				"海外动漫",
+				"演唱会",
+				"体育赛事",
+				"篮球",
+				"足球",
+				"预告片",
+				"斯诺克",
+				"影视解说"
+		],
+		{
 			"key": "河马",
 			"name": "河马┃App",
 			"type": 3,
@@ -58,6 +91,7 @@
 			"playerType": 1,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
+		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
 		{
 			"key": "賤賤",
 			"name": "荐片",
