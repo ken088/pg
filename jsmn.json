@@ -20,10 +20,6 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 3.8
-			}
 		},
                 {		
 			"key": "新6V",
