@@ -157,7 +157,8 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-		}],
+		}
+	],
 		"lives":[
 			{
 				"name": "军锅直播",
