@@ -1,8 +1,8 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-		{"key":"lf_js_search","name":"豆瓣","type":3,"style":{"type":"rect","ratio":1.485},"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"api":"./lib/apiv57uukw.js"},
-		{"key":"lf_js_p2p","name":"路飞_p2p磁力搜索","type":3,"style":{"type":"rect","ratio":1.485},"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"recordable":0,"api":"./lib/apiv591cLnn.js","ext":"18+"},
+		{"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"api":"./lib/apiv57uukw.js"},
+		{"key":"lf_js_p2p","name":"路飞_p2p磁力搜索","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"recordable":0,"api":"./lib/apiv591cLnn.js","ext":"18+"},
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
