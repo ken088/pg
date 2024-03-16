@@ -49,6 +49,7 @@
 			"api":"csp_Bttwoo",
 			"searchable":1,
 			"quickSearch":1,
+			"timeout":60,
 			"filterable":1
 		},
 		{
