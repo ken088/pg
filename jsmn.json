@@ -39,6 +39,14 @@
 			"ext": "./lib/feimaolive.json"
 		},
                 {
+			"key":"Dygang",
+			"name":"电影港[边下边播]",
+			"type":3,
+			"jar":"./xyq.jar",
+			"api":"csp_Dygang",
+			"timeout": 60
+		},
+		{
 			"key": "新6V",
 			"name": "新6V|网盘",
 			"type": 3,
