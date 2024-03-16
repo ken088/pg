@@ -145,18 +145,7 @@
 			"searchable": 1,
 			"ext": "https://www.bdys03.com/$$$null$$$1"
 		},
-		{
-			"key":"美剧迷",
-			"name":"美剧迷|网盘",
-			"type":3,
-			"api":"csp_Meijumi",
-			"quickSearch":1,
-			"changeable":1,
-			"filterable":1,
-			"timeout":60,
-			"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
-		},
-		{
+                {
 			"key":"drpy_js_MP4US",
 			"name":"MP4电影[js]|磁",
 			"type":3,
@@ -185,9 +174,32 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
-		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
+		{
+			"key":"drpy_js_酷吧",
+			"name":"酷吧[js]|磁",
+			"type":3,
+			"api":"./lib/drpy2.min.js",
+			"ext":"./js/kuba.js",
+			"quickSearch":1,
+			"changeable":1,
+			"timeout":60
+		},
+		{
+			"key":"Xunlei8",
+			"name":"Xunlei8|磁",
+			"type":3,
+			"api":"csp_Xunlei8",
+			"changeable":1,
+			"timeout":60
+		},
+		{
+			"key":"SeedHub",
+			"name":"SeedHub|磁",
+			"type":3,
+			"api":"csp_SeedHub",
+			"changeable":1,
+			"timeout":60
+		},
                 {
 			"key": "酷狗",
 			"name": "酷狗",
@@ -212,7 +224,15 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
+		{
+			"key": "push_agent",
+			"name": "推送",
+			"type": 3,
+			"api": "csp_Push",
+			"changeable":0,
+			"timeout":60,
+			"ext":"./lib/tokenm.json"
+		},
 		{
 			"key": "應用商店",
 			"name": "應用商店",
@@ -221,7 +241,8 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-	}],
+	        }
+	],
 		"lives":[
 			{
 				"name": "军锅直播",
