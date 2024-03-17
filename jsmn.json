@@ -290,9 +290,62 @@
 			"api": "csp_Market",
 			"searchable": 0,
 			"changeable": 0,
-			"ext": "https://fm.t4tv.hz.cz/json/market.json"
-	        }
-	],
+			 "ext": [
+        { "name": "软件升级",
+          "list": [
+        {
+          "name": "糖豆广场舞",
+          "url": "https://d.kstore.space/download/7955/apk/糖豆TV广场舞教学-登录VIP.apk",
+          "icon": "./lib/糖豆广场舞.png",
+           "version": "糖豆广场舞"
+        },
+        {
+          "name": "沙发管家",
+          "url": "https://d.kstore.space/download/7955/apk/沙发管家_4.9.46.apk",
+          "icon": "./lib/沙发管家.png",
+           "version": "沙发管家"
+        },
+        {
+          "name": "戏曲多多",
+          "url": "https://d.kstore.space/download/7955/apk/戏曲多多TV.apk",
+          "icon": "./lib/戏曲多多.png",
+           "version": "戏曲多多"
+        },
+        {
+          "name": "当贝桌面",
+          "url": "https://d.kstore.space/download/7955/apk/当贝桌面3.3.6.apk",
+          "icon": "./lib/当贝桌面.png",
+           "version": "当贝桌面"
+        },
+        {
+          "name": "学习",
+          "url": "https://d.kstore.space/download/7955/apk/学习_edit.apk",
+          "icon": "./lib/学习.png",
+           "version": "学习"
+        },
+        {
+          "name": "我的电视",
+          "url": "https://d.kstore.space/download/7955/apk/my-tv-v1.7.2.apk",
+          "icon": "./lib/我的电视.png",
+           "version": "我的电视"
+        },
+	    {
+          "name": "iktv",
+          "url": "https://d.kstore.space/download/7955/apk/iktv.apk",
+          "icon": "./lib/iktv.png",
+           "version": "iktv"
+        },
+        {
+          "name": "影视",
+          "url": "https://d.kstore.space/download/7955/apk/leanback-python-armeabi_v7a-dev-2.3.1-16fcb13.apk",
+          "icon": "./lib/影视.png",
+           "version": "影视"
+                     }
+		   ]
+		}
+            ]
+        }
+],
 		"lives":[
 			{
 				"name": "军锅直播",
