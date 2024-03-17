@@ -157,6 +157,17 @@
 			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
 		},
          	{
+			"key":"Bt0",
+			"name":"不太灵|磁力",
+			"type":3,
+			"api":"csp_Bt0",
+			"quickSearch":1,
+			"changeable":1,
+			"filterable":1,
+			"timeout":60,
+			"ext":"null$$$null$$$1"
+		},
+		{
 			"key": "Bdys_spider",
 			"name": "哔滴┃直连",
 			"api": "csp_Bdys01",
