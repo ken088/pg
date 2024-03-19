@@ -58,29 +58,7 @@
 			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
 		},
-		{
-                        "key":"bf3",
-                        "name":"BF3",
-                        "type":3,
-			"jar":"./磁力搜索.jar",
-                        "api":"csp_Kuaikan",
-                        "searchable":1,
-                        "quickSearch":1,
-			"filterable":1
-		},
-		{
-                        "key":"bf5",
-                        "name":"BF5",
-                        "type":3, 
-			"jar":"./磁力搜索.jar",
-                        "type":3,
-			"api":"csp_Bttwoo",
-			"searchable":1,
-			"quickSearch":1,
-			"timeout":60,
-			"filterable":1
-		},
-		{
+                {
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
 			"type": 3,
