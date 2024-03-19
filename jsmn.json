@@ -31,6 +31,34 @@
 			"ext":"18+"
 		},
                 {
+			"key":"drpy_js_奇珍异兽",
+			"name":"奇珍异兽",
+			"type":3,
+			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+		},
+                {
+			"key":"drpy_js_优酷",
+			"name":"酷酷的腾",
+			"type":3,
+			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+		},
+                {
+			"key":"drpy_js_腾云驾雾",
+			"name":"腾云驾雾",
+			"type":3,
+			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+		},
+                {
+			"key":"drpy_js_百忙无果",
+			"name":"百忙无果",
+			"type":3,
+			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+		},
+		{
                         "key":"bf3",
                         "name":"BF3",
                         "type":3,
@@ -603,6 +631,10 @@
 			}
 		],
 		"parses":[
+			{"name":"马","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=11154896&key=cefgiksvwyCGINV047&url="},
+                        {"name":"大","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
+                        {"name":"哈","type":1,"url":"http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="},
+                        {"name":"二","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 			{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 			{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 			{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
