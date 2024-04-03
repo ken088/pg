@@ -319,7 +319,13 @@
           "icon": "./lib/学习.png",
            "version": "学习"
         },
-        {
+         {
+          "name": "电视",
+          "url": "https://d.kstore.space/download/7955/apk/diyp电视.apk",
+          "icon": "./lib/电视.png",
+           "version": "电视"
+        },
+       {
           "name": "我的电视",
           "url": "https://d.kstore.space/download/7955/apk/my-tv-v1.7.2.apk",
           "icon": "./lib/我的电视.png",
