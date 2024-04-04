@@ -338,6 +338,12 @@
            "version": "iktv"
         },
         {
+	   "name":"AI助手",
+	   "url":"https://d.kstore.space/download/7955/apk/Ai助手.apk",
+	   "icon":"https://d.kstore.space/download/8031/pg/png/AI助手.png",
+	   "version":"AI助手"
+	},
+        {
           "name": "影视",
           "url": "https://d.kstore.space/download/7955/apk/leanback-python-armeabi_v7a-dev-2.3.1-16fcb13.apk",
           "icon": "./lib/影视.png",
