@@ -47,7 +47,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			result['filters'] = self.config['filter']	
 		return result
 	def homeVideoContent(self):
-		rsp = self.fetch("https://www.baipiaoys.com:9092")
+		rsp = self.fetch("https://baipiaoys.com:9092")
 		root = self.html(rsp.text)
 		aList = root.xpath("//div[@class='stui-vodlist__box']/a")
 
