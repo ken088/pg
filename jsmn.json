@@ -131,8 +131,8 @@
 			"name":"芒果",
 			"searchable": 1,
 			"type":3,
-			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+			"api":"./lib/drpy2.min.js",
+			"ext":"./lib/百忙无果.js"
 		},
                 {
 			"key": "直播转点播",
