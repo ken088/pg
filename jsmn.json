@@ -107,8 +107,8 @@
 			"name":"爱奇艺",
 			"searchable": 1,
 			"type":3,
-			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+			"api":"./lib/drpy2.min.js",
+			"ext":"./lib/奇珍异兽.js"
 		},
                 {
 			"key":"drpy_js_优酷",
