@@ -30,7 +30,6 @@
 			"api":"./lib/apiv591cLnn.js",
 			"ext":"18+"
 		},
-                {
 		{"key":"XBPQ_BaiPiao","name":"白白","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
 				"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
