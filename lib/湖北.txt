@@ -1,5 +1,4 @@
 央视地方,#genre#
-武汉酒店,#genre#
 CCTV1-综合,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2-财经,http://59.173.243.210:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3-综艺,http://59.173.243.210:9901/tsfile/live/0003_1.m3u8?key=txiptv
