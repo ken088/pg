@@ -382,7 +382,14 @@
         }
 ],
 		"lives":[
-			{"name":"mytv","url":"https://d.kstore.space/download/8031/zhibo/lib/mytv2fongmi.txt"},
+			{"name":"mytv",
+				"url":"https://gh.mzec.top/https://raw.githubusercontent.com/ken088/pg/main/lib/湖北0410.txt",
+				"type": 0,
+				"playerType": 1,
+				"ua": "okhttp/3.15",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
 			{"name":"派大星","url":"https://gh.mzec.top/https://raw.githubusercontent.com/ken088/pg/main/lib/湖北0410.txt"},
 			{"name":"itvlist","url":"https://d.kstore.space/download/8031/zhibo/lib/itvlist.m3u"},
 			{"name":"全球最新","url":"https://d.kstore.space/download/8031/zhibo/lib/全球直播新.txt"},
