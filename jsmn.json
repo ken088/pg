@@ -398,11 +398,16 @@
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
-			{"name":"itvlist","url":"https://d.kstore.space/download/8031/zhibo/lib/itvlist.m3u"},
+		        {
+                               "name": "XIUTAN",
+                               "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+                               "type": 0,
+                               "url": "https://xhdwc.tk/xiutan.m3u"
+                        },
 			{"name":"全球最新","url":"https://d.kstore.space/download/8031/zhibo/lib/全球直播新.txt"},
 			{"name":"29ZUIXIN","url":"https://d.kstore.space/download/8031/zhibo/lib/3月29日-最新直播源.m3u"},
 			{
-				"name": "军锅直播",
+				"name": "军直播",
 				"type": 0,
 				"url": "http://124.223.177.85:88/svip/直播挺快.txt",
 				"playerType": 1,
