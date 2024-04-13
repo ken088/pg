@@ -71,3 +71,6 @@ CCTV8K,http://8.137.98.246/video.php?id=cctv8k
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+CHC家庭影院,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+CHC高清電影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CHC動作電影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
