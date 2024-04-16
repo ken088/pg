@@ -246,12 +246,6 @@
            "version": "iktv"
         },
         {
-	   "name":"AI助手",
-	   "url":"https://d.kstore.space/download/7955/apk/Ai助手.apk",
-	   "icon":"https://d.kstore.space/download/8031/pg/png/AI助手.png",
-	   "version":"AI助手"
-	},
-        {
           "name": "影视",
           "url": "https://d.kstore.space/download/7955/apk/leanback-python-armeabi_v7a-dev-2.3.1-16fcb13.apk",
           "icon": "./lib/影视.png",
@@ -285,8 +279,14 @@
                                "type": 0,
                                "url": "https://xhdwc.tk/xiutan.m3u"
                         },
-			{"name":"全球最新","url":"https://d.kstore.space/download/8031/zhibo/lib/全球直播新.txt"},
-			{"name":"29ZUIXIN","url":"https://d.kstore.space/download/8031/zhibo/lib/3月29日-最新直播源.m3u"},
+			{
+				"name":"全球最新",
+				"url":"https://d.kstore.space/download/8031/zhibo/lib/全球直播新.txt"
+			},
+			{
+				"name":"29ZUIXIN",
+				"url":"https://d.kstore.space/download/8031/zhibo/lib/3月29日-最新直播源.m3u"
+			},
 			{
 				"name": "军直播",
 				"type": 0,
