@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "./jar/xyq.jar",
+    "spider": "https://gh.mzec.top/https://raw.githubusercontent.com/ken088/pg/main/jar/xyq.jar",
     "lives": [
         {
           "name": "直播",
