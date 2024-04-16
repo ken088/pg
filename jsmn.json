@@ -150,7 +150,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"./jar/XYQ.jar",
+			"jar":"./jar/xyq.jar",
 			"ext":"./json/BT天堂.json"
 		},
 		{
