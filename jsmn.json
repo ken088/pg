@@ -143,6 +143,16 @@
 			"ext": "./lib/feimaolive.json"
 		},
                 {
+			"key": "csp_XYQHiker_BT天堂",
+			"name":"🧲BT天堂",
+			"type":3,
+			"api":"csp_XYQHiker",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"./json/BT天堂.json"
+		},
+		{
 			"key":"Dygang",
 			"name":"电影港[边下边播]",
 			"type":3,
