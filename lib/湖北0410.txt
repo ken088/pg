@@ -1,5 +1,5 @@
 央视地方1,#genre#
-CCTV1,video://http://www.anren.live/play.php?ysid=1
+CCTV1,http://www.anren.live/play.php?ysid=1
 CCTV2,video://http://www.anren.live/play.php?ysid=2
 CCTV3,video://http://www.anren.live/play.php?ysid=3
 CCTV4,video://http://www.anren.live/play.php?ysid=4
