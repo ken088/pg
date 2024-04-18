@@ -43,7 +43,6 @@ CCTV8k,video://http://www.anren.live/play.php?ysid=1002
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
-海南卫视,video://http://www.anren.live/play.php?wsid=12
 广西卫视,video://http://www.anren.live/play.php?wsid=13
 浙江卫视,video://http://www.anren.live/play.php?wsid=14
 山东卫视,video://http://www.anren.live/play.php?wsid=15
@@ -51,20 +50,9 @@ CCTV8k,video://http://www.anren.live/play.php?ysid=1002
 河南卫视,video://http://www.anren.live/play.php?wsid=17
 黑龙江卫视,video://http://www.anren.live/play.php?wsid=18
 辽宁卫视,video://http://www.anren.live/play.php?wsid=19
-吉林卫视,video://http://www.anren.live/play.php?wsid=20
 江西卫视,video://http://www.anren.live/play.php?wsid=21
 深圳卫视,video://http://www.anren.live/play.php?wsid=22
-山西卫视,video://http://www.anren.live/play.php?wsid=23
-陕西卫视,video://http://www.anren.live/play.php?wsid=24
-甘肃卫视,video://http://www.anren.live/play.php?wsid=25
-青海卫视,video://http://www.anren.live/play.php?wsid=26
-宁夏卫视,video://http://www.anren.live/play.php?wsid=27
-云南卫视,video://http://www.anren.live/play.php?wsid=28
-内蒙古卫视,video://http://www.anren.live/play.php?wsid=29
 新疆卫视,video://http://www.anren.live/play.php?wsid=30
-西藏卫视,video://http://www.anren.live/play.php?wsid=31
-厦门卫视,video://http://www.anren.live/play.php?wsid=32
-三沙卫视,video://http://www.anren.live/play.php?wsid=33
 香港卫视,video://http://www.anren.live/play.php?gtid=4
 金鹰卡通,video://http://www.anren.live/play.php?gtid=9
 快乐垂钓,video://http://www.anren.live/play.php?gtid=17
@@ -80,6 +68,9 @@ CCTV8k,video://http://www.anren.live/play.php?ysid=1002
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+凤凰中文频道,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯频道,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港频道,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 央视地方2,#genre#
 CCTV1,http://8.137.98.246/video.php?id=cctv1
 CCTV2,http://8.137.98.246/video.php?id=cctv2
@@ -149,7 +140,6 @@ CCTV8K,http://8.137.98.246/video.php?id=cctv8k
 凤凰中文频道,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯频道,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港频道,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
