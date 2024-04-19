@@ -386,6 +386,15 @@ CHC-高清电影,http://58.48.199.143:8888/rtp/239.69.1.241:11088
 湖北综合,http://27.22.15.56:8880/rtp/239.69.1.42:9892
 湖北综合,http://58.48.198.195:8888/rtp/239.69.1.42:9892
 湖北综合,http://58.48.199.143:8888/rtp/239.69.1.42:9892
+荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
+荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
+荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+凤凰中文频道,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯频道,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港频道,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 茶频道,http://119.98.135.77:4022/rtp/239.69.1.144:10500
 茶频道,http://27.18.241.127:4022/rtp/239.69.1.144:10500
 茶频道,http://27.22.15.56:8880/rtp/239.69.1.144:10500
