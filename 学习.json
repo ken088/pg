@@ -34,7 +34,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-"ext":"https://gh.mzec.top/https://raw.githubusercontent.com/ken088/pg/main/lib/%E7%9F%A5%E8%AF%86.json"
+"ext":"./lib/知识.json"
                    },
         {
             "key": "儿童",
