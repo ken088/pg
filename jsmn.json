@@ -94,7 +94,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"jar":"./jar/xyq.jar",
-			"ext":"http://oiuzy.haitu33.com"},
+			"ext":"http://oiuzy.haitu33.com",
 			"timeout":60
 		},
                 {
