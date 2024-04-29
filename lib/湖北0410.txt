@@ -79,6 +79,8 @@ CCTV15,http://123.183.24.94:6666/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playl
 CCTV15,http://112.235.200.253:9901/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://113.57.103.216:9000/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://112.235.200.141:9901/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://121.19.134.140:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://121.19.134.142:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://111.225.114.165:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://112.235.200.198:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://112.235.202.94:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
