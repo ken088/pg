@@ -150,7 +150,7 @@ CHC电影,http://112.235.202.12:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive
 金鹰卡通,http://113.57.103.216:9000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://222.89.107.42:9876/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://123.182.212.170:8088/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷卡通,http://111.161.149.182:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://111.161.149.182:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 炫动卡通,http://222.89.107.42:9876/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://123.154.30.3:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 嘉佳卡通,http://222.89.107.42:9876/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
