@@ -292,7 +292,7 @@
         }
 ],
 		"lives":[
-			{       "name":"mytv",
+			{       "name":"MyTv",
 				"url":"https://gh.mzec.top/https://raw.githubusercontent.com/ken088/pg/main/lib/湖北0410.txt",
 				"type": 0,
 				"playerType": 1,
