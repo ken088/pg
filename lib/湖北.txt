@@ -127,8 +127,6 @@ CCTV高尔夫网球,http://219.140.132.102:8887/rtp/239.69.1.83:10138
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
-凤凰中文频道,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯频道,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港频道,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
