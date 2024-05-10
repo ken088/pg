@@ -70,7 +70,7 @@
 			"key":"Dygang",
 			"name":"电影港[边下边播]",
 			"type":3,
-			"jar":"./1013.jar",
+			"jar":"https://d.kstore.space/download/8031/pg/1013.jar",
 			"api":"csp_Dygang",
 			"timeout": 60
 		},
