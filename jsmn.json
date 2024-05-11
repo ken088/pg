@@ -38,34 +38,6 @@
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
 		},
-                {
-                        "key": "MP4",
-                        "name": "🧲1080P┃磁力",
-                        "type": 3,
-                        "api": "csp_XBPQ",
-                        "jar":"./jar/XBPQ.jar",
-                        "playerType": "2",
-                        "ext": {
-                                 "站名": "磁力追剧",
-                                 "分类": "电视剧$13#动作片$6#科幻片$7#爱情片$8#喜剧片$9#恐怖片$10#战争片$11#剧情片$12",
-                                 "搜索url":"https://www.zmp4.com/vodsearch.html?wd={wd}",
-                                 "播放数组":"class=\"panel down-list thunder1&&</ul",
-                                 "线路数组":"class=\"stui-pannel__head active&&</div",
-                                 "线路标题":"class=\"title titlego\">&&</h3",
-                                 "分类url": "https://www.zmp4.com/show/{cateId}/page/{catePg}/year/{year}.html;;a"
-                                          }
-                },
-		{
-			"key": "csp_XYQHiker_BT天堂",
-			"name":"🧲BT天堂",
-			"type":3,
-			"api":"csp_XYQHiker",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"jar":"./jar/xyq.jar",
-			"ext":"./json/BT天堂.json"
-		},
 		{
 			"key":"Dygang",
 			"name":"电影港[边下边播]",
