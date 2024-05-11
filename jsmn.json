@@ -9,6 +9,7 @@
 			"changeable":0,
 			"quickSearch":0,
 			"filterable":1,
+			"indexs":1,
 			"api":"./lib/apiv57uukw.js"
 		},
 		{
