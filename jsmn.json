@@ -99,14 +99,6 @@
 			"ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1"
 		},
 		{
-			"key": "JustLive",
-			"name": "JustLive",
-			"type": 3,
-			"api": "csp_JustLive",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key":"drpy_js_酷吧",
 			"name":"酷吧[js]|磁",
 			"type":3,
