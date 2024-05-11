@@ -43,7 +43,7 @@
                         "name": "🧲1080P┃磁力",
                         "type": 3,
                         "api": "csp_XBPQ",
-                        "jar":"./jar/xbpq.jar",
+                        "jar":"./jar/XBPQ.jar",
                         "playerType": "2",
                         "ext": {
                                  "站名": "磁力追剧",
