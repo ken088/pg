@@ -166,32 +166,32 @@
 			"name":"爱奇艺",
 			"searchable": 1,
 			"type":3,
-			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/js/奇珍异兽.js"
 		},
                 {
 			"key":"drpy_js_优酷",
 			"name":"优酷",
 			"searchable": 1,
 			"type":3,
-			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/js/优酷.js"
 		},
                 {
 			"key":"drpy_js_腾云驾雾",
 			"name":"腾讯",
 			"searchable": 1,
 			"type":3,
-			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/js/腾云驾雾.js"
 		},
                 {
 			"key":"drpy_js_百忙无果",
 			"name":"芒果",
 			"searchable": 1,
 			"type":3,
-			"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/js/百忙无果.js"
 		},
 		{
 			"key": "酷狗",
@@ -291,7 +291,7 @@
 ],
 		"lives":[
 			{       "name":"MyTv",
-				"url":"https://gh.mzec.top/https://raw.githubusercontent.com/ken088/pg/main/lib/湖北0410.txt",
+				"url":"https://pg-exn.pages.dev/ken088/pg/main/lib/湖北0410.txt",
 				"type": 0,
 				"playerType": 1,
 				"ua":"okhttp/3.15",
