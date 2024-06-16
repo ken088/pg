@@ -73,7 +73,7 @@
 			"name":"🎦酷看┃秒播",
 			"type":3,
 			"api":"csp_Kkys",
-			"jar":"./jar/ttkx.jar",
+			"jar":"http://47.108.214.214/pg/lib/ttkx.jar",
 			"timeout":15,
 			"searchable":1,
 			"quickSearch":1,
@@ -84,7 +84,7 @@
 			"name":"🎦原创┃无广",
 			"type":3,
 			"api":"csp_YCyz",
-			"jar":"./jar/ttkx.jar",
+			"jar":"http://47.108.214.214/pg/lib/ttkx.jar",
 			"timeout":15,
 			"searchable":1,
 			"quickSearch":1,
@@ -95,7 +95,7 @@
 			"name":"🎦苹果┃无广",
 			"type":3,
 			"api":"csp_LiteApple",
-			"jar":"./jar/ttkx.jar",
+			"jar":"http://47.108.214.214/pg/lib/ttkx.jar",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":1
@@ -105,11 +105,11 @@
 			"name":"🎦五五┃秒播",
 			"type":3,
 			"api":"csp_XBPQ",
-			"jar":"./jar/ttkx.jar",
+			"jar":"http://47.108.214.214/pg/lib/ttkx.jar",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"./lib/55.json"
+			"ext":"http://47.108.214.214/pg/lib/55.json"
 		},
 		{
 			"key":"Bt0",
@@ -126,8 +126,8 @@
 			"key":"drpy_js_MP4US",
 			"name":"MP4电影[js]|磁",
 			"type":3,
-			"api":"./lib/drpy2.min.js",
-			"ext":"./js/mp4us.js",
+			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"http://47.108.214.214/pg/lib/mp4us.js",
 			"quickSearch":1,
 			"changeable":1,
 			"timeout":60
@@ -147,8 +147,8 @@
 			"key":"drpy_js_酷吧",
 			"name":"酷吧[js]|磁",
 			"type":3,
-			"api":"./lib/drpy2.min.js",
-			"ext":"./js/kuba.js",
+			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"ext":"ttp://47.108.214.214/pg/lib//kuba.js",
 			"quickSearch":1,
 			"changeable":1,
 			"timeout":60
