@@ -126,7 +126,7 @@
 			"key":"drpy_js_MP4US",
 			"name":"MP4电影[js]|磁",
 			"type":3,
-			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"api":"http://47.108.214.214/pg/lib/drpy2.min.js",
 			"ext":"http://47.108.214.214/pg/lib/mp4us.js",
 			"quickSearch":1,
 			"changeable":1,
