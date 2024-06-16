@@ -147,8 +147,8 @@
 			"key":"drpy_js_酷吧",
 			"name":"酷吧[js]|磁",
 			"type":3,
-			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"ext":"ttp://47.108.214.214/pg/lib//kuba.js",
+			"api":"http://47.108.214.214/pg/lib//drpy2.min.js",
+			"ext":"http://47.108.214.214/pg/lib//kuba.js",
 			"quickSearch":1,
 			"changeable":1,
 			"timeout":60
