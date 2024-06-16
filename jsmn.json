@@ -64,7 +64,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":1,
-			"api":"http://47.108.214.214/pg/lib/drpy2.min.js",
+			"api":"https://pg-exn.pages.dev/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"ext":"http://47.108.214.214/pg/lib/JP.js",
 			"timeout":60
 		},
