@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"./pg.jar?md5=2a0eb78d28ce4f624e0631de0f03c698",
 	"sites":[
 	       	{
 			"key":"lf_js_search",
